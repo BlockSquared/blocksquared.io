@@ -1,2 +1,2 @@
-# blocksquared.io
-blocksquared.io website
+# blocksquared.xyz
+blocksquared.xyz website
